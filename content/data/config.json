@@ -17,7 +17,7 @@
             {
                 "label": "Hey",
                 "altText": "Learn more",
-                "url": "/",
+                "url": "/blog",
                 "showIcon": true,
                 "icon": "arrowLeft",
                 "iconPosition": "right",
