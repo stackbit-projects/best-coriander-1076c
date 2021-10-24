@@ -54,7 +54,8 @@ sections:
     bottomGap: none
     topGap: none
     title: Blog Posts
-    posts: []
+    posts:
+      - content/pages/blog/post-one.md
     styles:
       title:
         textAlign: center
