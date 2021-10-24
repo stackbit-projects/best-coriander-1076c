@@ -8,6 +8,7 @@
     "image": {
         "type": "ImageBlock",
         "url": "/images/dianne-ameter.jpg",
-        "altText": "Person photo"
-      }
+        "altText": "Person photo",
+        "opacity": 26
+    }
 }
