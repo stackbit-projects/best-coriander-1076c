@@ -2,6 +2,24 @@
 title: Home
 layout: PageLayout
 sections:
+  - colors: colors-a
+    width: wide
+    height: tall
+    topGap: medium
+    bottomGap: medium
+    contentWidth: large
+    contentAlignHoriz: left
+    contentAlignVert: middle
+    elementId: ''
+    variant: variant-a
+    title: About us
+    subtitle: Meet the team
+    actions: []
+    people:
+      - content/data/team/desmond-eagle.json
+      - content/data/team/dianne-ameter.json
+      - content/data/team/hilary-ouse.json
+    type: FeaturedPeopleSection
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-f
