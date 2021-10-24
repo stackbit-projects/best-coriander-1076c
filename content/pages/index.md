@@ -55,7 +55,6 @@ sections:
     topGap: none
     title: Blog Posts
     posts:
-      - content/pages/blog/post-one.md
       - content/pages/blog/my-posss.md
     styles:
       title:
