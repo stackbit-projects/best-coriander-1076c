@@ -57,6 +57,7 @@ sections:
     posts:
       - content/pages/blog/post-one.md
       - content/pages/blog/postlayout-d8kogpc63.md
+      - content/pages/blog/postlayout-azhku222p.md
     styles:
       title:
         textAlign: center
