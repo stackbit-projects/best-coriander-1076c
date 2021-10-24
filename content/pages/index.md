@@ -15,7 +15,7 @@ sections:
     title: About us
     subtitle: Meet the team
     actions:
-      - label: Learn more
+      - label: Learn more..
         altText: Learn more
         url: /
         showIcon: false
