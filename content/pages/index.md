@@ -54,8 +54,7 @@ sections:
     bottomGap: none
     topGap: none
     title: Blog Posts
-    posts:
-      - content/pages/blog/my-posss.md
+    posts: []
     styles:
       title:
         textAlign: center
